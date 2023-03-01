@@ -1,0 +1,17 @@
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\bin\Debug\net7.0\DevFreela.Infrastructure.deps.json
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\bin\Debug\net7.0\DevFreela.Infrastructure.runtimeconfig.json
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\bin\Debug\net7.0\DevFreela.Infrastructure.dll
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\bin\Debug\net7.0\DevFreela.Infrastructure.pdb
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\bin\Debug\net7.0\DevFreela.Core.dll
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\bin\Debug\net7.0\DevFreela.Core.pdb
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\obj\Debug\net7.0\DevFreela.Infrastructure.csproj.AssemblyReference.cache
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\obj\Debug\net7.0\DevFreela.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\obj\Debug\net7.0\DevFreela.Infrastructure.AssemblyInfoInputs.cache
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\obj\Debug\net7.0\DevFreela.Infrastructure.AssemblyInfo.cs
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\obj\Debug\net7.0\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\obj\Debug\net7.0\DevFreela.Infrastructure.csproj.CopyComplete
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\obj\Debug\net7.0\DevFreela.Infrastructure.dll
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\obj\Debug\net7.0\refint\DevFreela.Infrastructure.dll
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\obj\Debug\net7.0\DevFreela.Infrastructure.pdb
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\obj\Debug\net7.0\DevFreela.Infrastructure.genruntimeconfig.cache
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.Infrastructure\obj\Debug\net7.0\ref\DevFreela.Infrastructure.dll

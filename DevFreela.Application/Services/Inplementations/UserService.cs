@@ -19,6 +19,8 @@ namespace DevFreela.Application.Services.Inplementations
 
             _dbContext.Users.Add(user);
 
+            _dbContext.SaveChanges();
+
             return user.Id;
         }
 
