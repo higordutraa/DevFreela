@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pwbiH4WXhI3GzwzuTbJz6m4P/dbNtHX7JrR5uqGdLhBNNU13GC/kki8Y+vSSg9lOt1+pVFt2ENCCbfV6PsyNEQ==",
+  "dgSpecHash": "3xkkjUjnYr8WwIdYcmhBi5oHI4Rmu4t5uqC5QMeybw8+KqfW1xMFDpFT9AgBeFcmUzWgzh388vb26uleaqgW8A==",
   "success": true,
   "projectFilePath": "C:\\Higor\\.NET Direto ao Ponto\\Cursos\\Formação ASP .NET CORE\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,9 @@
     "C:\\Users\\higor\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\higor\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\higor\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\higor\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,9 +1,8 @@
-using DevFreela.API.Models;
-using DevFreela.Application.Services.Inplementations;
-using DevFreela.Application.Services.Interfaces;
+using DevFreela.Application.Commands.CreateProject;
 using DevFreela.Infrastructure.Persistence;
+using MediatR;
 using Microsoft.EntityFrameworkCore;
-using System.Data.Common;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,16 +13,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.Configure<OpeningTimeOption>(builder.Configuration.GetSection("OpeningTime"));
-
-builder.Services.AddScoped<ExampleClass> (e=> new ExampleClass { Name="InitialStage"});
-
 var connectionString = builder.Configuration.GetConnectionString("DevFreelaCs");
 builder.Services.AddDbContext<DevFreelaDbContext>(p => p.UseSqlServer(connectionString));
 
-builder.Services.AddScoped<IProjectService, ProjectService>();
-builder.Services.AddScoped<IUserService, UserService>();
-builder.Services.AddScoped<ISkillService, SkillService>();
+builder.Services.AddMediatR(typeof(CreateProjectCommand));
+
 //-------------------------------------------------------------------------------------------------------------------------------------//
 var app = builder.Build();
 

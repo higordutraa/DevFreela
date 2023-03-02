@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ilQE6QHg0RBscFjnbmXU0u+D2160I3cmxrcJAijImD74XFxky8XrVLMG8rDWJwAxyvXhbWPuWYJi8nlo8r+eSg==",
+  "dgSpecHash": "0xI4/RpmCAIM2kOd1GuiUmNrfOiGHD5wyNo69epDZcoPvDD9WZoY9RcS0raX0+r79hCgxv0iRe+1d6ek13Lgnw==",
   "success": true,
   "projectFilePath": "C:\\Higor\\.NET Direto ao Ponto\\Cursos\\Formação ASP .NET CORE\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\higor\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\higor\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\higor\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
