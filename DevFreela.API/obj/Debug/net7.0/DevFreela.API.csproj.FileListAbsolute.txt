@@ -81,3 +81,6 @@ C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreel
 C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.API\bin\Debug\net7.0\DevFreela.Application.pdb
 C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.API\bin\Debug\net7.0\DevFreela.Core.pdb
 C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.API\bin\Debug\net7.0\DevFreela.Infrastructure.pdb
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.API\bin\Debug\net7.0\MediatR.dll
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
