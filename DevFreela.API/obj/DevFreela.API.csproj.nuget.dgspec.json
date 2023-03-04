@@ -70,7 +70,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -142,6 +142,10 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.0.123, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
             },
             "MediatR": {
               "target": "Package",
