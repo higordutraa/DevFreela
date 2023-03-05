@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JSdeNqzaFn1Pf3iHhWxd8ipW9nrBy9uYICIkAw0cGL24mSB+C5NQssY/EOv3ufuavV3hslD3c+Kdc7siRZZGNQ==",
+  "dgSpecHash": "tUU0hNGgavEyTw1/nJtpaA2dP51UqSrKDM8t4I73949D0M4vy7oE9S1mDwY+L7zfWUDQf022KFVY7OHW0wbLww==",
   "success": true,
   "projectFilePath": "C:\\Higor\\.NET Direto ao Ponto\\Cursos\\Formação ASP .NET CORE\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\higor\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\higor\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.3\\microsoft.aspnetcore.authentication.jwtbearer.7.0.3.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\higor\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
