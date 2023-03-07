@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFreela.API", "DevFreela.API\DevFreela.API.csproj", "{0F17F3EE-C62D-46BF-9E48-ABABD62089E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevFreela.API", "DevFreela.API\DevFreela.API.csproj", "{0F17F3EE-C62D-46BF-9E48-ABABD62089E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFreela.Core", "DevFreela.Core\DevFreela.Core.csproj", "{0F72732B-C1B4-4A10-928F-538C2A643DE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevFreela.Core", "DevFreela.Core\DevFreela.Core.csproj", "{0F72732B-C1B4-4A10-928F-538C2A643DE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFreela.Infrastructure", "DevFreela.Infrastructure\DevFreela.Infrastructure.csproj", "{73171C4A-CA00-493E-B84A-BD06CD13D00E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevFreela.Infrastructure", "DevFreela.Infrastructure\DevFreela.Infrastructure.csproj", "{73171C4A-CA00-493E-B84A-BD06CD13D00E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFreela.Application", "DevFreela.Application\DevFreela.Application.csproj", "{3A9DF921-9927-417B-A4EC-D6E808F6F659}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevFreela.Application", "DevFreela.Application\DevFreela.Application.csproj", "{3A9DF921-9927-417B-A4EC-D6E808F6F659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFreela.UnitTests", "DevFreela.UnitTests\DevFreela.UnitTests.csproj", "{585CDC01-D77D-4E4C-B615-4D8347F70CDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3A9DF921-9927-417B-A4EC-D6E808F6F659}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A9DF921-9927-417B-A4EC-D6E808F6F659}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A9DF921-9927-417B-A4EC-D6E808F6F659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{585CDC01-D77D-4E4C-B615-4D8347F70CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585CDC01-D77D-4E4C-B615-4D8347F70CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585CDC01-D77D-4E4C-B615-4D8347F70CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585CDC01-D77D-4E4C-B615-4D8347F70CDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
