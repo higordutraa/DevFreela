@@ -33,14 +33,14 @@ namespace DevFreela.API.Controllers
         [AllowAnonymous]
         public async Task<IActionResult> Post([FromBody] CreateUserCommand command)
         {
-            await _mediator.Send(command);
+            var id = await _mediator.Send(command);
 
             return CreatedAtAction(nameof(GetById), new { id = 1 }, command);
         }
 
         [HttpPut("login")]
         [AllowAnonymous]
-        public async Task<IActionResult> Login(int id, [FromBody] LoginUserCommand command)
+        public async Task<IActionResult> Login([FromBody] LoginUserCommand command)
         {
             var loginUserViewModel = await _mediator.Send(command);
 

@@ -15,7 +15,6 @@ namespace DevFreela.Infrastructure.Auth
         {
             _configuration = configuration;
         }
-
         public string ComputeSha256Hash(string password)
         {
             using (SHA256 sha256Hash = SHA256.Create())//Inicializando o método do sha256 Create

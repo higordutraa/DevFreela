@@ -2,7 +2,13 @@
 {
     public class SkillDTO
     {
-        public int Id { get; set; }
-        public string Description { get; set; }
+        public SkillDTO(int id, string description)
+        {
+            Id = id;
+            Description = description;
+        }
+
+        public int Id { get; private set; }
+        public string Description { get; private set; }
     }
 }

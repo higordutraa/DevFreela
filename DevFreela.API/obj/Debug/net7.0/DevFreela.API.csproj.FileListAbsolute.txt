@@ -88,3 +88,4 @@ C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreel
 C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
 C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.API\bin\Debug\net7.0\RabbitMQ.Client.dll
