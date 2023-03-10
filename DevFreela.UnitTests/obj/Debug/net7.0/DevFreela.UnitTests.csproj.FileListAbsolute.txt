@@ -150,3 +150,4 @@ C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreel
 C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.UnitTests\obj\Debug\net7.0\ref\DevFreela.UnitTests.dll
 C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.UnitTests\bin\Debug\net7.0\Castle.Core.dll
 C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.UnitTests\bin\Debug\net7.0\Moq.dll
+C:\Higor\.NET Direto ao Ponto\Cursos\Formação ASP .NET CORE\DevFreela\DevFreela.UnitTests\bin\Debug\net7.0\RabbitMQ.Client.dll
